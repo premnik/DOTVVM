@@ -1,0 +1,11 @@
+D:\project_dotvvm\UpGrade\V7\WebMigrator_WithUI\WebMigrator_WithUI\Converters\bin\Debug\net8.0\Converters.deps.json
+D:\project_dotvvm\UpGrade\V7\WebMigrator_WithUI\WebMigrator_WithUI\Converters\bin\Debug\net8.0\Converters.dll
+D:\project_dotvvm\UpGrade\V7\WebMigrator_WithUI\WebMigrator_WithUI\Converters\bin\Debug\net8.0\Converters.pdb
+D:\project_dotvvm\UpGrade\V7\WebMigrator_WithUI\WebMigrator_WithUI\Converters\obj\Debug\net8.0\Converters.GeneratedMSBuildEditorConfig.editorconfig
+D:\project_dotvvm\UpGrade\V7\WebMigrator_WithUI\WebMigrator_WithUI\Converters\obj\Debug\net8.0\Converters.AssemblyInfoInputs.cache
+D:\project_dotvvm\UpGrade\V7\WebMigrator_WithUI\WebMigrator_WithUI\Converters\obj\Debug\net8.0\Converters.AssemblyInfo.cs
+D:\project_dotvvm\UpGrade\V7\WebMigrator_WithUI\WebMigrator_WithUI\Converters\obj\Debug\net8.0\Converters.csproj.CoreCompileInputs.cache
+D:\project_dotvvm\UpGrade\V7\WebMigrator_WithUI\WebMigrator_WithUI\Converters\obj\Debug\net8.0\Converters.dll
+D:\project_dotvvm\UpGrade\V7\WebMigrator_WithUI\WebMigrator_WithUI\Converters\obj\Debug\net8.0\refint\Converters.dll
+D:\project_dotvvm\UpGrade\V7\WebMigrator_WithUI\WebMigrator_WithUI\Converters\obj\Debug\net8.0\Converters.pdb
+D:\project_dotvvm\UpGrade\V7\WebMigrator_WithUI\WebMigrator_WithUI\Converters\obj\Debug\net8.0\ref\Converters.dll

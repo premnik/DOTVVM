@@ -1,0 +1,16 @@
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Upload Legacy WebForms Project (.zip)</h2>
+<form method="post" enctype="multipart/form-data">
+  <label>Legacy project .zip</label>
+  <input type="file" name="legacyZip" required />
+
+  <label>ViewModel Namespace (optional)</label>
+  <input type="text" name="namespace" placeholder="SampleApp.ViewModels" />
+
+  <button type="submit">Convert & Download DotVVM Project</button>
+</form>
+<p style="margin-top:1rem;color:#666">
+  Tip: zip the root folder of your WebForms app (the folder that contains .aspx files).
+</p>
